@@ -45,8 +45,8 @@ while (exerciseNumber <= 16) {
                }
 
                console.log(`\n Percentual de votos brancos: ${percentual(votosBrancos, totalEleitores)}%`);
-               console.log(`\n Percentual de votos brancos: ${percentual(votosNulos, totalEleitores)}%`);
-               console.log(`\n Percentual de votos brancos: ${percentual(votosValidos, totalEleitores)}%`);
+               console.log(`\n Percentual de votos nulos: ${percentual(votosNulos, totalEleitores)}%`);
+               console.log(`\n Percentual de votos válidos: ${percentual(votosValidos, totalEleitores)}%`);
 
                break;
 
@@ -57,6 +57,7 @@ while (exerciseNumber <= 16) {
                let num2 = Number(prompt(" Insira o segundo número: "));
                let num3 = Number(prompt(" Insira o terceiro número: "));
                let num4 = Number(prompt(" Insira o quarto número: "));
+               let aux = 0;
 
                num1 = num1 + 25;
 
