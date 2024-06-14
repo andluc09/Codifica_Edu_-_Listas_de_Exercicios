@@ -1,0 +1,13 @@
+
+	| Instruções |
+
+ Anexo à atividade pelo link: GitHub
+
+	— GitHub: 
+		  1. Na página do GitHub há um ícone verde [ <> Code ] que exibirá opções, selecione Download ZIP para efetuar o download da pasta Exercicios em formato ZIP;
+		  2. Descompactar apenas a pasta Lista 02 do arquivo ZIP; 
+		  3. Após descompactar, selecione a pasta com o botão direito do mouse selecionando a opção abrir pasta com o VS Code ou abrindo o VS Code e indo através do menu Arquivo, selecionando Abrir Pasta; 
+		  4. Feito isso, selecione o arquivo: Lista_02_-_Andre_Lucas.js na aba lateral esquerda após aberto em seu editor de código e execute através da extensão Code Runner por meio do ícone de play na parte superior direita ou por meio do comando Ctrl + Alt + N; 
+		  5. Será exibido em sua aba Terminal localizado na parte inferior da interface caso se encontre configurado a extensão do Code Runner, as interações do programa ao ser executado. Do contrário o mesmo ocorrerá na aba Output quanto a execução.
+
+
